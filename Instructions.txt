@@ -1,0 +1,7 @@
+The program deals with two kinds of scenarios. The first one handles a sentence as the input for the program 
+In the second scenario the program reads information from a text file and performs the same steps. The only difference is 
+that in the second case we iterate through all the lines of the file i.e, we are repeating the first case several times. 
+
+To execute the program from and IDE just run it as a java application. 
+In order to use the file option, drop the attached file (authorFileToBeRead.txt) in a directory of your choice and then change 
+the INPUT_FILE field in the AuthorTest.java file to point to the previously chosen directory.
